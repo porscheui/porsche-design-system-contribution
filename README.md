@@ -1,7 +1,7 @@
 # Welcome to the public Porsche Design System Contribution Repo
 Following an open community approach we encourage everyone to participate actively in request features, comment or contribute to the Porsche Design System. To manage all kinds of issues centrally, we created this public contribution repository.
 
-⚠️ Please **[first have a look on the already existing community issues](https://github.com/porscheui/porsche-design-system-contribution/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)** to avoid duplicates.
+⚠️ Please **[first have a look on the already existing community issues](https://github.com/porscheui/porsche-design-system-contribution/projects/1)** to avoid duplicates.
 
 ## Request changes and features
 If you need enhancements or modifications you can **[open a new feature issue](https://github.com/porscheui/porsche-design-system-contribution/issues/new?assignees=&labels=request%2C+open&template=request.md&title=Request+%2F+)** clearly describing the need and context and also promote the priority for its completion. For directly contributing Pull Requests [please use our private Repo](https://github.com/porscheui/porsche-design-system).
