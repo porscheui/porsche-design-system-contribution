@@ -10,6 +10,9 @@ assignees: ''
 **Description**  
 A clear and concise description of the reported bug or mistake
 
+**Example Fork of Design System Sandbox**
+Provide link to repo with striped-down example based on the Porsche Design System Sandbox application. 
+
 **To Reproduce**  
 Steps to reproduce the behavior:
 1. Go to '...'
